@@ -5,8 +5,8 @@
 - JS
 - CSS
 
-#usado
-|Linguagens|Usadas|
+#Usado no projetinho
+|Linguagens|oque é|
 |-|-|
 |[HTML](https://dev.w3.org/html5/spec-LC/)||
 |[CSS](https://dev.w3.org/style/CSS/Overview.en.html)||
