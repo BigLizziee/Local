@@ -4,11 +4,13 @@
 - HTML
 - JS
 - CSS
+
+#usado
 |Linguagens|Usadas|
 |-|-|
-|[HTML](https://dev.w3.org/html5/spec-LC/)|algo|
-|[CSS](https://dev.w3.org/style/CSS/Overview.en.html)|algo|
-|[JavaScript](https://Vanilla.js.org/)|algo|
+|[HTML](https://dev.w3.org/html5/spec-LC/)||
+|[CSS](https://dev.w3.org/style/CSS/Overview.en.html)||
+|[JavaScript](https://Vanilla.js.org/)||
 |VsCode|IDE(Ambiente integrado de desenvolvimento)|
 |Git|Ferramenta colaborativa de versionamento|
 
